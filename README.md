@@ -15,15 +15,19 @@
  
  Watch video - https://youtu.be/MmiOrYlCFsc
  
-  ## Netflix Eureka
+  ## Netflix Eureka Server
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/cYWVkxL4Zcs
  
   ## Netflix Eureka server - service registry 
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/DE_toHClKgI
  
-  ## Netflix Eureka client - service discovery
+  ## Netflix Eureka client - service discovery - part1
+ 
+ * Watch video - https://youtu.be/mAFSJu55zoo
+ 
+  ## Netflix Eureka client - service discovery - part2
  
  * Watch video - TBD
  
