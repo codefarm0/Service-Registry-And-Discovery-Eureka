@@ -13,7 +13,7 @@
  * Client side service resgistry and discovery 
  * Server side service resgistry and discovery 
  
- Watch video - TBD
+ Watch video - https://youtu.be/MmiOrYlCFsc
  
   ## Netflix Eureka
  
