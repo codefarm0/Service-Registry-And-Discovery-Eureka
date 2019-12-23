@@ -1,0 +1,10 @@
+server:
+    port: 6081
+spring:
+  application:
+    name: patients-service
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka

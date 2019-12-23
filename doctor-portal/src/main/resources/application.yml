@@ -1,0 +1,11 @@
+server:
+    port: 7081
+spring:
+  application:
+    name: doctor-portal
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    register-with-eureka: false
