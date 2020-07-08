@@ -29,12 +29,6 @@
  
   ## Netflix Eureka client - service discovery - part2
  
- * Watch video - TBD
+ * Watch video - https://youtu.be/-el6-wk1Yi0
  
-  ## An anlysis about netflix eureka
- 
- * Watch video - TBD
- 
-  ## What next ??
- 
- * Watch video - TBD
+
